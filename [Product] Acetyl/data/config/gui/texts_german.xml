@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1416000039</GUID>
+      <Text>Acetyl</Text>
+    </Text>
+    <Text>
+      <GUID>1416000199</GUID>
+      <Text>Fake Acetyl Chemical Plant</Text>
+    </Text>
+  </ModOp>
+</ModOps>

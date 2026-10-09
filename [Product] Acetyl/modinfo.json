@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Acetyl",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Acetyl",
+    "Chinese": "Acetyl",
+    "French": "Acetyl",
+    "German": "Acetyl",
+    "Italian": "Acetyl",
+    "Japanese": "Acetyl",
+    "Korean": "Acetyl",
+    "Polish": "Acetyl",
+    "Russian": "Acetyl",
+    "Spanish": "Acetyl",
+    "Taiwanese": "Acetyl"
+  },
+  "CreatorName": "Satanoy,Vaeloridas",
+  
+  "Description": {
+    "English": "Shared Product Acetyl",
+    "Chinese": "Shared Product Acetyl",
+    "French": "Shared Product Acetyl",
+    "German": "Shared Product Acetyl",
+    "Italian": "Shared Product Acetyl",
+    "Japanese": "Shared Product Acetyl",
+    "Korean": "Shared Product Acetyl",
+    "Polish": "Shared Product Acetyl",
+    "Russian": "Shared Product Acetyl",
+    "Spanish": "Shared Product Acetyl",
+    "Taiwanese": "Shared Product Acetyl"
+  }
+}
