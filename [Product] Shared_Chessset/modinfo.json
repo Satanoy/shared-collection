@@ -1,0 +1,48 @@
+{
+  "Version": "1.0",
+  "ModID": "Chess_Set",
+  "ModDependencies": [
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Chess_Set",
+    "Chinese": "Chess_Set",
+    "French": "Chess_Set",
+    "German": "Chess_Set",
+    "Italian": "Chess_Set",
+    "Japanese": "Chess_Set",
+    "Korean": "Chess_Set",
+    "Polish": "Chess_Set",
+    "Russian": "Chess_Set",
+    "Spanish": "Chess_Set",
+    "Taiwanese": "Chess_Set"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Chess Set",
+    "Chinese": "Shared Product Chess Set",
+    "French": "Shared Product Chess Set",
+    "German": "Shared Product Chess Set",
+    "Italian": "Shared Product Chess Set",
+    "Japanese": "Shared Product Chess Set",
+    "Korean": "Shared Product Chess Set",
+    "Polish": "Shared Product Chess Set",
+    "Russian": "Shared Product Chess Set",
+    "Spanish": "Shared Product Chess Set",
+    "Taiwanese": "Shared Product Chess Set"
+  }
+}

@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START chess set-->
+    <Text>
+      <GUID>1900100162</GUID>
+      <Text>chess set</Text>
+    </Text>
+    <Text>
+      <GUID>1900100163</GUID>
+      <Text>used for entertainment and strategic practice.</Text>
+    </Text>
+    <!-- END Chess Set Factory-->
+    <Text>
+      <GUID>1888999923</GUID>
+      <Text>Chess Set Factory</Text>
+    </Text>
+  </ModOp>
+</ModOps>
