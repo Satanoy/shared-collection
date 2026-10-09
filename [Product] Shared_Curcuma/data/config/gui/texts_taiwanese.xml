@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+<!-- START Turmeric -->
+    <Text>
+      <GUID>1900100254</GUID>
+      <Text>Turmeric</Text>
+    </Text>
+    <Text>
+      <GUID>1900100255</GUID>
+      <Text>An aromatic spice used to add color and flavor to various dishes.</Text>
+    </Text>
+  <!-- Curcuma farm -->
+    <Text>
+      <GUID>1889000310</GUID>
+      <Text>Tumeric Farm</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+      <!-- INICIO Cúrcuma -->
+    <Text>
+      <GUID>1900100254</GUID>
+      <Text>Cúrcuma</Text>
+    </Text>
+    <Text>
+      <GUID>1900100255</GUID>
+      <Text>Una especia aromática utilizada para agregar color y sabor a diversos platos.</Text>
+    </Text>
+  <!-- Curcuma farm -->
+    <Text>
+      <GUID>1889000310</GUID>
+      <Text>Plantación de Cúrcuma</Text>
+    </Text>
+  </ModOp>
+</ModOps>

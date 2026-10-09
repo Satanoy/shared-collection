@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Curcuma",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Curcuma",
+    "Chinese": "Shared_Curcuma",
+    "French": "Shared_Curcuma",
+    "German": "Shared_Curcuma",
+    "Italian": "Shared_Curcuma",
+    "Japanese": "Shared_Curcuma",
+    "Korean": "Shared_Curcuma",
+    "Polish": "Shared_Curcuma",
+    "Russian": "Shared_Curcuma",
+    "Spanish": "Shared_Curcuma",
+    "Taiwanese": "Shared_Curcuma"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Curcuma",
+    "Chinese": "Shared Product Curcuma",
+    "French": "Shared Product Curcuma",
+    "German": "Shared Product Curcuma",
+    "Italian": "Shared Product Curcuma",
+    "Japanese": "Shared Product Curcuma",
+    "Korean": "Shared Product Curcuma",
+    "Polish": "Shared Product Curcuma",
+    "Russian": "Shared Product Curcuma",
+    "Spanish": "Shared Product Curcuma",
+    "Taiwanese": "Shared Product Curcuma"
+  }
+}
