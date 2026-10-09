@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Tungsten_Ore",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Tungsten_Ore",
+    "Chinese": "Shared_Tungsten_Ore",
+    "French": "Shared_Tungsten_Ore",
+    "German": "Shared_Tungsten_Ore",
+    "Italian": "Shared_Tungsten_Ore",
+    "Japanese": "Shared_Tungsten_Ore",
+    "Korean": "Shared_Tungsten_Ore",
+    "Polish": "Shared_Tungsten_Ore",
+    "Russian": "Shared_Tungsten_Ore",
+    "Spanish": "Shared_Tungsten_Ore",
+    "Taiwanese": "Shared_Tungsten_Ore"
+  },
+  "CreatorName": "Satanoy",
+  
+  "Description": {
+    "English": "Shared Product Tungsten Ore",
+    "Chinese": "Shared Product Tungsten Ore",
+    "French": "Shared Product Tungsten Ore",
+    "German": "Shared Product Tungsten Ore",
+    "Italian": "Shared Product Tungsten Ore",
+    "Japanese":"Shared Product Tungsten Ore",
+    "Korean":"Shared Product Tungsten Ore",
+    "Polish":"Shared Product Tungsten Ore",
+    "Russian":"Shared Product Tungsten Ore",
+    "Spanish": "Shared Product Tungsten Ore",
+    "Taiwanese": "Shared Product Tungsten Ore"
+  }
+}

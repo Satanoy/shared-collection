@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- START GOOD - Mineral de tungsteno -->
+    <Text>
+      <GUID>1889000186</GUID>
+      <Text>Tungsten ore</Text>
+    </Text>
+    <Text>
+      <GUID>1889000187</GUID>
+      <Text>Refractory mineral used in the production of components subjected to extreme temperatures.</Text>
+    </Text>
+     <!-- START Fake Tungsten Quarry-->
+     <Text>
+      <GUID>1889000316</GUID>
+      <Text>Tungsten Ore Quarry</Text>
+    </Text>
+  </ModOp>
+</ModOps>
