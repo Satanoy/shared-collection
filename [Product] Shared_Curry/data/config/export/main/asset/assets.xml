@@ -1,0 +1,188 @@
+<ModOps>
+
+  <!-- START ADD GOOD Curry-->
+    <ModOp Type="addNextSibling" GUID='135234'>
+        <Asset>
+            <Template>Product</Template>
+            <Values>
+                <Standard>
+                    <GUID>1900100148</GUID>
+                    <Name>Curry</Name>
+                    <IconFilename>data/ui/icons/curry.png</IconFilename>
+                    <InfoDescription>1900100149</InfoDescription>
+                </Standard>
+                <Locked />
+                <Product>
+                    <StorageLevel>Building</StorageLevel>
+                    <ProductCategory>11704</ProductCategory>
+                    <BasePrice>563</BasePrice>
+                    <CivLevel>3</CivLevel>
+                    <AssociatedRegion>Moderate</AssociatedRegion>
+                    <ProductionRegions>
+                        <Item>
+                            <RegionType>Moderate</RegionType>
+                        </Item>
+                    </ProductionRegions>
+                </Product>
+                <ExpeditionAttribute>
+                    <BaseMorale>50</BaseMorale>
+                </ExpeditionAttribute>
+            </Values>
+        </Asset>
+    </ModOp>
+
+  <!-- Expedition -->
+  <ModOp Type="add" GUID="800111">
+    <Item>
+      <MoraleFactor>0.5</MoraleFactor>
+      <Product>1900100148</Product>
+    </Item>
+  </ModOp>
+
+ <!-- START PRODUCTION Fake gemstone Quarry-->
+  <ModOp Type="addNextSibling" GUID='6594'>
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>1889000309</GUID>
+          <Name>Fake Curry Mill</Name>
+          <IconFilename>data/ui/icons/curry.png</IconFilename>
+        </Standard>
+        <Building>
+          <BuildModeRandomRotation>90</BuildModeRandomRotation>
+          <AssociatedRegions>Africa</AssociatedRegions>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+        </Building>
+        <Blocking/>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>200</Amount>
+            </Item>
+            <Item>
+              <Ingredient>1010196</Ingredient>
+              <Amount>5</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+      <Variations>
+				<Item>
+					<Filename>data/dlc06/graphics/buildings/production/production_colony02_20/production_colony02_20.cfg</Filename>
+				</Item>
+				<Item>
+					<Filename>data/dlc06/graphics/buildings/production/production_colony02_20/production_colony02_20_var1.cfg</Filename>
+				</Item>
+			</Variations>
+        </Object>
+        <Selection>
+          <OnSelection>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ActionList/>
+            </Values>
+          </OnSelection>
+          <ParticipantMessageArcheType>Africa_Resident_tier02</ParticipantMessageArcheType>
+          <Colors>
+            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+          </Colors>
+        </Selection>
+     <SoundEmitter>
+			<ActiveSounds>
+				<Item>
+					<Sound>270382</Sound>
+					<!--wwe_sfx_bld_intermediate_colony02_typeCluster_tag-->
+				</Item>
+				<Item>
+					<Sound>270368</Sound>
+					<!--wwe_sfx_bld_intermediate_colony02_02_lp-->
+				</Item>
+			</ActiveSounds>
+		</SoundEmitter>
+    <FactoryBase>
+			<FactoryInputs>
+				<Item>
+					<Product>114369</Product>
+					<Amount>1</Amount>
+					<StorageAmount>4</StorageAmount>
+				</Item>
+			</FactoryInputs>
+			<FactoryOutputs>
+				<Item>
+					<Product>1900100148</Product>
+					<Amount>1</Amount>
+					<StorageAmount>4</StorageAmount>
+				</Item>
+			</FactoryOutputs>
+			<IsMainFactory>1</IsMainFactory>
+		</FactoryBase>
+        <LogisticNode/>
+        <AmbientMoodProvider>
+          <Murmur>Africa_Factories</Murmur>
+          <DynamicEnvironmentType>None</DynamicEnvironmentType>
+        </AmbientMoodProvider>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>50</Amount>
+              <InactiveAmount>0</InactiveAmount>
+            </Item>
+            <Item>
+              <Product>114341</Product>
+              <Amount>10</Amount>
+            </Item>
+          </Maintenances>
+        </Maintenance>
+        <Attackable>
+			    <AttackableType>IslandBuilding</AttackableType>
+			    <MaximumHitPoints>2750</MaximumHitPoints>
+			    <SelfHealPerHealTick>6</SelfHealPerHealTick>
+		    </Attackable>
+        <Pausable/>
+        <IncidentInfectable>
+          <Infectable>
+            <Explosion>
+              <Base>0</Base>
+              <Escalated>0</Escalated>
+            </Explosion>
+          </Infectable>
+          <IncidentInfectionChanceFactors>
+            <Fire>
+              <DensityDistance>10</DensityDistance>
+              <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
+              <FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
+            </Fire>
+            <Riot>
+              <FactoryOvertimeFactor>0.4</FactoryOvertimeFactor>
+              <FactoryUndertimeFactor>0.2</FactoryUndertimeFactor>
+              <FactoryHappinessFactor>0.2</FactoryHappinessFactor>
+              <HappinessThreshold>10</HappinessThreshold>
+            </Riot>
+          </IncidentInfectionChanceFactors>
+        </IncidentInfectable>
+		      <Culture>
+			      <CultureType>Culture</CultureType>
+		      </Culture>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- ADD PRODUCT TO PRODUCTSTORAGELISTS -->
+
+  <ModOp Type="add" GUID='502016,502065,502220,502078,502080,502028,502068,502027,502067,501955' Path="/Values/ProductList/List">
+    <Item>
+      <Product>1900100148</Product>      
+    </Item>
+  </ModOp>
+
+    <!-- START ADD TO GLOBAL PRODUCTION POOLS -->
+    <ModOp Type="add" GUID="6000018,193856,368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+         <Item>
+             <GUID>1889000309</GUID>
+         </Item>
+    </ModOp>
+
+</ModOps>

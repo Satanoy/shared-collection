@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Curry-->
+    <Text>
+      <GUID>1900100148</GUID>
+      <Text>Curry</Text>
+    </Text>
+    <Text>
+      <GUID>1900100149</GUID>
+      <Text>Spiced blend used in the preparation of aromatic and seasoned dishes.</Text>
+    </Text>
+    <!-- START Fake gemstone Quarry-->
+     <Text>
+      <GUID>1889000309</GUID>
+      <Text>Curry Mill</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Curry",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Curry",
+    "Chinese": "Shared_Curry",
+    "French": "Shared_Curry",
+    "German": "Shared_Curry",
+    "Italian": "Shared_Curry",
+    "Japanese": "Shared_Curry",
+    "Korean": "Shared_Curry",
+    "Polish": "Shared_Curry",
+    "Russian": "Shared_Curry",
+    "Spanish": "Shared_Curry",
+    "Taiwanese": "Shared_Curry"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Curry",
+    "Chinese": "Shared Product Curry",
+    "French": "Shared Product Curry",
+    "German": "Shared Product Curry",
+    "Italian": "Shared Product Curry",
+    "Japanese": "Shared Product Curry",
+    "Korean": "Shared Product Curry",
+    "Polish": "Shared Product Curry",
+    "Russian": "Shared Product Curry",
+    "Spanish": "Shared Product Curry",
+    "Taiwanese": "Shared Product Curry"
+  }
+}
