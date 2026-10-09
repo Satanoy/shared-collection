@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Salmon",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Salmon",
+    "Chinese": "Shared_Salmon",
+    "French": "Shared_Salmon",
+    "German": "Shared_Salmon",
+    "Italian": "Shared_Salmon",
+    "Japanese": "Shared_Salmon",
+    "Korean": "Shared_Salmon",
+    "Polish": "Shared_Salmon",
+    "Russian": "Shared_Salmon",
+    "Spanish": "Shared_Salmon",
+    "Taiwanese": "Shared_Salmon"
+  },
+  "CreatorName": "fridhmyr",
+  
+  "Description": {
+    "English": "Shared Product Salmon",
+    "Chinese": "Shared Product Salmon",
+    "French": "Shared Product Salmon",
+    "German": "Shared Product Salmon",
+    "Italian": "Shared Product Salmon",
+    "Japanese": "Shared Product Salmon",
+    "Korean": "Shared Product Salmon",
+    "Polish": "Shared Product Salmon",
+    "Russian": "Shared Product Salmon",
+    "Spanish": "Shared Product Salmon",
+    "Taiwanese": "Shared Product Salmon"
+  }
+}

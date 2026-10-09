@@ -1,0 +1,249 @@
+<ModOps>
+  <!-- Lachs -->
+  <ModOp Type="addNextSibling" GUID='5392'>
+    <Asset>
+      <Template>Product</Template>
+      <Values>
+        <Standard>
+          <GUID>1900100085</GUID>
+          <Name>Lachs</Name>
+          <IconFilename>data\graphics\icons\icon_lachs.png</IconFilename>
+          <InfoDescription>1900100086</InfoDescription>
+        </Standard>
+        <Text />
+        <Locked />
+        <Product>
+          <StorageLevel>Building</StorageLevel>
+          <ProductCategory>11703</ProductCategory>
+          <BasePrice>45</BasePrice>
+          <CivLevel>1</CivLevel>
+          <AssociatedRegion>Moderate;Arctic</AssociatedRegion>
+          <ProductionRegions>
+            <Item>
+              <RegionType>Moderate</RegionType>
+            </Item>
+            <Item>
+              <RegionType>Arctic</RegionType>
+            </Item>
+          </ProductionRegions>
+        </Product>
+        <ExpeditionAttribute>
+          <BaseMorale>0</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>Crafting</Attribute>
+              <Amount>5</Amount>
+            </Item>
+          </ExpeditionAttributes>
+          <FluffText />
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Expedition -->
+  <ModOp Type="add" GUID="800111"
+    Condition="!~/ExpeditionFeature/FeedOption/FeedOptions[Item/Product='1900100085']"
+    Path="/Values/ExpeditionFeature/FeedOption/FeedOptions">
+    <Item>
+      <MoraleFactor>0.5</MoraleFactor>
+      <Product>1900100085</Product>
+    </Item>
+  </ModOp>
+
+  <!-- ADD PRODUCT TO PRODUCTSTORAGELISTS -->
+  <ModOp Type="addNextSibling" GUID="120055" Path="/Values/ProductStorageList/ProductList/Item[Product='1010200']">
+    <Item>
+      <Product>1900100085</Product>     
+    </Item>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID="131764" Path="/Values/TradeContractFeature/Traders/Item[TraderName='131809']/TradeLevels/Item/Trades/Item[Good='1010257']">
+      <Item>
+        <Level>Rare</Level>
+        <Good>1900100085</Good>
+      </Item>
+  </ModOp>
+
+  <ModOp Type="add" GUID='502016,502065,502220,502078,502080,502028,502068,502027,502067,501955' Path="/Values/ProductList/List">
+    <Item>
+      <Product>1900100085</Product>      
+    </Item>
+  </ModOp>
+
+  <ModOp Type="add" GUID='502083,502042,502040,502041' Path="/Values/ProductList/List">
+    <Item>
+      <Product>1900100085</Product>      
+    </Item>
+  </ModOp>
+  <!-- ADD GOODS TO OTHER PRODUCTLIST -->
+
+  <!--Unlock Goods and Workersworkforce list-->
+  <ModOp Type="add" GUID="502005,502018"
+    Condition="!~/Values/ProductList/List/Item[Product='1888999749']"
+    Path="/Values/ProductList/List">
+    <Item>
+      <Product>1900100085</Product>
+    </Item>
+  </ModOp>
+
+  <!-- START BUILDING-->
+  <ModOp Type="addNextSibling" GUID='1010278'>
+    <Asset>
+      <Template>FactoryBuilding7</Template>
+      <Values>
+        <Standard>
+          <GUID>1900100139</GUID>
+          <Name>IsMainFactory_Fake_Salmon</Name>
+          <IconFilename>data\graphics\icons\icon_lachs.png</IconFilename>
+        </Standard>
+        <Building>
+          <TerrainType>Water_Including_Coast</TerrainType>
+          <BuildModeRandomRotation>180</BuildModeRandomRotation>
+          <AssociatedRegions>Moderate</AssociatedRegions>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+        </Building>
+        <Blocking>
+		    	<GroundDecalAsset>100446</GroundDecalAsset>
+		    	<GroundDecalInvisible>101008</GroundDecalInvisible>
+		    	<GroundDecalAssetExtra>100691</GroundDecalAssetExtra>
+		    	<HasBuildingBaseTiles>1</HasBuildingBaseTiles>
+		    </Blocking>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>          
+              <Amount>1000</Amount>
+            </Item>
+            <Item>
+					    <Ingredient>1010196</Ingredient>
+				    	<Amount>10</Amount>
+				    </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/production/coastal_01/coastal_01.cfg</Filename>
+            </Item>
+          </Variations>
+          <Skins>
+				   <DefaultSkinName>1010278</DefaultSkinName>
+				   <DefaultSkinDescription>23853</DefaultSkinDescription>
+				   <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+			   </Skins>
+        </Object>
+        <Mesh/>
+        <Selection>
+          <OnSelection>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ActionList/>
+            </Values>
+          </OnSelection>
+          <ParticipantMessageArcheType>Resident_tier01_atWork</ParticipantMessageArcheType>
+          <Colors>
+            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+          </Colors>
+        </Selection>
+        <Text />
+        <Constructable/>
+        <Locked/>
+        <SoundEmitter>
+			   <RFX>
+				  <Item>
+					 <RFX>240013</RFX>
+				  </Item>
+			   </RFX>
+		    </SoundEmitter>
+        <Factory7/>
+        <FactoryBase>
+          <FactoryOutputs>
+            <Item>
+              <Product>1900100085</Product>             
+              <Amount>1</Amount>
+              <StorageAmount>6</StorageAmount>
+            </Item>
+          </FactoryOutputs>
+          <CycleTime>90</CycleTime>
+          <MissingConnectionInfolayer>500449</MissingConnectionInfolayer>
+          <IsMainFactory>1</IsMainFactory>
+        </FactoryBase>
+        <LogisticNode/>
+        <AmbientMoodProvider>
+			    <Murmur>Harbor</Murmur>
+			    <DynamicEnvironmentType>Harbor</DynamicEnvironmentType>
+        </AmbientMoodProvider>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>50</Amount>
+              <InactiveAmount>0</InactiveAmount>
+            </Item>
+            <Item>
+					    <Product>1010052</Product>
+					    <Amount>25</Amount>
+				    </Item>
+          </Maintenances>
+        </Maintenance>
+        <Attackable>
+			    <AttackableType>HarbourBuilding</AttackableType>
+			    <MaximumHitPoints>2000</MaximumHitPoints>
+			    <PausedTimeIfAttacked>0</PausedTimeIfAttacked>
+			    <HPBarOffset>4</HPBarOffset>
+			    <DefenseByAIFactor>100</DefenseByAIFactor>
+			    <MoralePower>25</MoralePower>
+			    <IslandWarFlag>102303</IslandWarFlag>
+			    <RuinSmokeParticles>
+				   <Item>
+					   <SmokeParticleFilePath>data/graphics/effects/military/explosions/damage_smoke_01.cfg</SmokeParticleFilePath>
+				   </Item>
+			   </RuinSmokeParticles>
+			   <RuinSmokeParticlesMin>1</RuinSmokeParticlesMin>
+			   <RuinSmokeParticlesMax>3</RuinSmokeParticlesMax>
+			   <RuinSmokeParticleRectBorderPercent>0.2</RuinSmokeParticleRectBorderPercent>
+			   <ExplosionEffects>
+				  <Item>
+					  <ExplosionEffectFilePath>data/graphics/effects/military/explosions/harbor_generic_xpl_03.cfg</ExplosionEffectFilePath>
+				  </Item>
+			   </ExplosionEffects>
+			   <ExplosionEffectsMin>1</ExplosionEffectsMin>
+			   <ExplosionEffectsMax>2</ExplosionEffectsMax>
+			   <SelfHealPerHealTick>5</SelfHealPerHealTick>
+		   </Attackable>
+		   <Pausable/>
+		   <IncidentInfectable>
+			   <Infectable>
+				   <Explosion>
+					  <Base>0</Base>
+					  <Escalated>0</Escalated>
+				   </Explosion>
+			   </Infectable>
+			   <Explosion>
+				  <ExplosionCoreDamage>1000</ExplosionCoreDamage>
+			   </Explosion>
+			   <IncidentInfectionChanceFactors>
+				  <Fire>
+				  	<BaseChance>2.5</BaseChance>
+				  	<FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
+				  </Fire>
+				  <Riot>
+				  	<FactoryOvertimeFactor>0.4</FactoryOvertimeFactor>
+				  	<FactoryUndertimeFactor>0.2</FactoryUndertimeFactor>
+				  	<FactoryHappinessFactor>0.2</FactoryHappinessFactor>
+				  	<HappinessThreshold>20</HappinessThreshold>
+				  </Riot>
+			  </IncidentInfectionChanceFactors>
+		   </IncidentInfectable>
+		   <Industrializable>
+		   	<BoostedByIndustrialization>0</BoostedByIndustrialization>
+		   </Industrializable>
+		   <Culture>
+		    	<CultureType>Culture</CultureType>
+		   </Culture>
+      </Values>
+    </Asset>
+  </ModOp>
+  
+</ModOps>

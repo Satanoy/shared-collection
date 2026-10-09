@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- Salmon -->
+    <Text>
+      <GUID>1900100085</GUID>      
+      <Text>Salmón</Text>
+    </Text>
+    <Text>
+      <GUID>1900100086</GUID>      
+      <Text>Un pescado apreciado por su sabor, extraído de ríos fríos y costas templadas.</Text>
+    </Text>
+  <!-- Salmon -->
+  <!-- Salmon fishmonger -->
+    <Text>
+      <GUID>1900100139</GUID>      
+      <Text>Pescaderia de salmón</Text>
+    </Text>
+   <!-- Salmon fishmonger -->
+  </ModOp>
+</ModOps>
