@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Viscose",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Viscose",
+    "Chinese": "Viscose",
+    "French": "Viscose",
+    "German": "Viscose",
+    "Italian": "Viscose",
+    "Japanese": "Viscose",
+    "Korean": "Viscose",
+    "Polish": "Viscose",
+    "Russian": "Viscose",
+    "Spanish": "Viscose",
+    "Taiwanese": "Viscose"
+  },
+  "CreatorName": "Satanoy,Vaeloridas",
+  
+  "Description": {
+    "English": "Shared Product Viscose",
+    "Chinese": "Shared Product Viscose",
+    "French": "Shared Product Viscose",
+    "German": "Shared Product Viscose",
+    "Italian": "Shared Product Viscose",
+    "Japanese": "Shared Product Viscose",
+    "Korean": "Shared Product Viscose",
+    "Polish": "Shared Product Viscose",
+    "Russian": "Shared Product Viscose",
+    "Spanish": "Shared Product Viscose",
+    "Taiwanese": "Shared Product Viscose"
+  }
+}

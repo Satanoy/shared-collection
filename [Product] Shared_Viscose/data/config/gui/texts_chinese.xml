@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1416000038</GUID>
+      <Text>Viscose</Text>
+    </Text>
+    <Text>
+      <GUID>1416000198</GUID>
+      <Text>Fake Viscose Chemical Plant</Text>
+    </Text>
+  </ModOp>
+</ModOps>
