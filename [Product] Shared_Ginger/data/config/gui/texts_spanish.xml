@@ -1,0 +1,18 @@
+<ModOps>
+ <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- INICIO Jengibre -->
+    <Text>
+      <GUID>1900100166</GUID>
+      <Text>Jengibre</Text>
+    </Text>
+    <Text>
+      <GUID>1900100167</GUID>
+      <Text>Raíz aromática utilizada como condimento y en la preparación de alimentos y bebidas.</Text>
+    </Text>
+  <!-- Ginger farm -->
+    <Text>
+      <GUID>1889000311</GUID>
+      <Text>Granja de Gengibre</Text>
+    </Text>
+  </ModOp>
+</ModOps>

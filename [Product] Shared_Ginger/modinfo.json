@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Ginger",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Ginger",
+    "Chinese": "Shared_Ginger",
+    "French": "Shared_Ginger",
+    "German": "Shared_Ginger",
+    "Italian": "Shared_Ginger",
+    "Japanese": "Shared_Ginger",
+    "Korean": "Shared_Ginger",
+    "Polish": "Shared_Ginger",
+    "Russian": "Shared_Ginger",
+    "Spanish": "Shared_Ginger",
+    "Taiwanese": "Shared_Ginger"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Ginger",
+    "Chinese": "Shared Product Ginger",
+    "French": "Shared Product Ginger",
+    "German": "Shared Product Ginger",
+    "Italian": "Shared Product Ginger",
+    "Japanese": "Shared Product Ginger",
+    "Korean": "Shared Product Ginger",
+    "Polish": "Shared Product Ginger",
+    "Russian": "Shared Product Ginger",
+    "Spanish": "Shared Product Ginger",
+    "Taiwanese": "Shared Product Ginger"
+  }
+}

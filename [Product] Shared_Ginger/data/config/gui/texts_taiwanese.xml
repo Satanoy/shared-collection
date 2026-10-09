@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Ginger-->
+    <Text>
+      <GUID>1900100166</GUID>
+      <Text>Ginger</Text>
+    </Text>
+    <Text>
+      <GUID>1900100167</GUID>
+      <Text>Aromatic root used as a seasoning and in the preparation of foods and beverages.</Text>
+    </Text>
+  <!-- Ginger farm -->
+    <Text>
+      <GUID>1889000311</GUID>
+      <Text>Ginger Farm</Text>
+    </Text>
+  </ModOp>
+</ModOps>
