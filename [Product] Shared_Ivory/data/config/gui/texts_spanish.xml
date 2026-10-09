@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- INICIO Marfil -->
+    <Text>
+      <GUID>1900100170</GUID>
+      <Text>Marfil</Text>
+    </Text>
+    <Text>
+      <GUID>1900100171</GUID>
+      <Text>Material duro y liso históricamente utilizado en objetos decorativos y artesanales.</Text>
+    </Text>
+    <!-- END Elephant Hnting Cabin-->
+    <Text>
+      <GUID>1889000314</GUID>
+      <Text>Cabaña de caza de elefantes</Text>
+    </Text>
+  </ModOp>
+</ModOps>

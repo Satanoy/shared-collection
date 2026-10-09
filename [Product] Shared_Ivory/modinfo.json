@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Ivory",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Ivory",
+    "Chinese": "Ivory",
+    "French": "Ivory",
+    "German": "Ivory",
+    "Italian": "Ivory",
+    "Japanese": "Ivory",
+    "Korean": "Ivory",
+    "Polish": "Ivory",
+    "Russian": "Ivory",
+    "Spanish": "Ivory",
+    "Taiwanese": "Ivory"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Ivory",
+    "Chinese": "Shared Product Ivory",
+    "French": "Shared Product Ivory",
+    "German": "Shared Product Ivory",
+    "Italian": "Shared Product Ivory",
+    "Japanese": "Shared Product Ivory",
+    "Korean": "Shared Product Ivory",
+    "Polish": "Shared Product Ivory",
+    "Russian": "Shared Product Ivory",
+    "Spanish": "Shared Product Ivory",
+    "Taiwanese": "Shared Product Ivory"
+  }
+}

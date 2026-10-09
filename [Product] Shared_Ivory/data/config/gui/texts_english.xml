@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- START Ivory-->
+    <Text>
+      <GUID>1900100170</GUID>
+      <Text>Ivory</Text>
+    </Text>
+    <Text>
+      <GUID>1900100171</GUID>
+      <Text>A hard and smooth material historically used in decorative and handcrafted objects.</Text>
+    </Text>
+    <!-- END Elephant Hnting Cabin-->
+    <Text>
+      <GUID>1889000314</GUID>
+      <Text>Elephant Hunting Cabin</Text>
+    </Text>
+  </ModOp>
+</ModOps>
