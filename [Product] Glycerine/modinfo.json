@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Glycerin",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Glycerin",
+    "Chinese": "Glycerin",
+    "French": "Glycerin",
+    "German": "Glycerin",
+    "Italian": "Glycerin",
+    "Japanese": "Glycerin",
+    "Korean": "Glycerin",
+    "Polish": "Glycerin",
+    "Russian": "Glycerin",
+    "Spanish": "Glycerin",
+    "Taiwanese": "Glycerin"
+  },
+  "CreatorName": "Satanoy,Vaeloridas",
+  
+  "Description": {
+    "English": "Shared Product Glycerin",
+    "Chinese": "Shared Product Glycerin",
+    "French": "Shared Product Glycerin",
+    "German": "Shared Product Glycerin",
+    "Italian": "Shared Product Glycerin",
+    "Japanese": "Shared Product Glycerin",
+    "Korean": "Shared Product Glycerin",
+    "Polish": "Shared Product Glycerin",
+    "Russian": "Shared Product Glycerin",
+    "Spanish": "Shared Product Glycerin",
+    "Taiwanese": "Shared Product Glycerin"
+  }
+}
