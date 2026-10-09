@@ -1,0 +1,14 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+     <!-- START Olive Soap-->   
+    <Text>
+      <GUID>1888999922</GUID>
+      <Text>Jabón de Oliva</Text>
+    </Text>
+    <!-- END Olive Soap Factory-->
+    <Text>
+      <GUID>1888999923</GUID>
+      <Text>Fábrica de jabón de olivo</Text>
+    </Text>
+  </ModOp>
+</ModOps>

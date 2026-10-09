@@ -1,0 +1,163 @@
+<ModOps>
+  <!-- # Product: Olive Soap-->
+  <ModOp Type="addNextSibling" GUID="1010203">
+    <Asset>
+      <Template>Product</Template>
+      <Values>
+        <Standard>
+          <GUID>1888999922</GUID>
+          <Name>Olive Soap</Name>
+          <IconFilename>data/ui/Icons/icon_olive_soap.png</IconFilename>
+        </Standard>
+        <Locked />
+        <Product>
+          <StorageLevel>Building</StorageLevel>
+          <ProductCategory>11704</ProductCategory>
+          <BasePrice>120</BasePrice>
+          <CivLevel>2</CivLevel>
+          <AssociatedRegion>Moderate</AssociatedRegion>
+          <ProductionRegions>
+            <Item>
+              <RegionType>Moderate</RegionType>
+            </Item>
+          </ProductionRegions>
+        </Product>
+        <ExpeditionAttribute>
+          <BaseMorale>0</BaseMorale>
+          <ExpeditionAttributes>
+            <Item>
+              <Attribute>Medicine</Attribute>
+              <Amount>15</Amount>
+            </Item>
+          </ExpeditionAttributes>
+        </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Expedition -->
+  <ModOp Type="add" GUID="800111">
+    <Item>
+      <MoraleFactor>0.5</MoraleFactor>
+      <Product>1888999922</Product>
+    </Item>
+  </ModOp>
+
+ <!-- START PRODUCTION Olive Soap  -->
+ <ModOp Type="addNextSibling" GUID='1010343'>
+    <Asset>
+        <Template>FactoryBuilding7</Template>
+        <Values>
+            <Standard>
+                <GUID>1888999923</GUID>
+                <Name>Fake Olive Soap Factory</Name>
+                <IconFilename>data/ui/Icons/icon_olive_soap.png</IconFilename>
+            </Standard>
+            <Building>
+                <BuildModeRandomRotation>90</BuildModeRandomRotation>
+                <AssociatedRegions>Moderate</AssociatedRegions>
+                <SecondPartyRelevant>0</SecondPartyRelevant>
+            </Building>
+            <Cost>
+                <Costs>
+                    <Item>
+                        <Ingredient>1010017</Ingredient> 
+                        <Amount>6000</Amount>
+                    </Item>
+                    <Item>
+                        <Ingredient>1010196</Ingredient> 
+                        <Amount>15</Amount>
+                    </Item>
+                    <Item>
+                        <Ingredient>1010205</Ingredient> 
+                        <Amount>10</Amount>
+                    </Item>
+                    <Item>
+                        <Ingredient>1010218</Ingredient> 
+                        <Amount>5</Amount>
+                    </Item>
+                </Costs>
+            </Cost>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/production/factory_02/factory_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Selection>
+                <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
+            </Selection>
+            <SoundEmitter>
+                <ActiveSounds>
+                    <Item>
+                        <Sound>270300</Sound> 
+                    </Item>
+                    <Item>
+                        <Sound>270266</Sound>
+                    </Item>
+                </ActiveSounds>
+            </SoundEmitter>
+            <FactoryBase>
+                <FactoryInputs>
+                    <Item>
+                        <Product>1500010105</Product>
+                        <Amount>1</Amount>
+                        <StorageAmount>10</StorageAmount>
+                    </Item>
+                    <Item>
+                        <Product>1010232</Product>
+                        <Amount>1</Amount>
+                        <StorageAmount>10</StorageAmount>
+                    </Item>
+                </FactoryInputs>
+                <FactoryOutputs>
+                    <Item>
+                        <Product>1888999922</Product> 
+                        <Amount>1</Amount>
+                        <StorageAmount>10</StorageAmount>
+                    </Item>
+                </FactoryOutputs>
+                <CycleTime>60</CycleTime>
+                <IsMainFactory>1</IsMainFactory>
+            </FactoryBase>
+            <Maintenance>
+                <Maintenances>
+                    <Item>
+                        <Product>1010017</Product> 
+                        <Amount>150</Amount>
+                        <InactiveAmount>50</InactiveAmount>
+                    </Item>
+                    <Item>
+                        <Product>1010115</Product> 
+                        <Amount>40</Amount>
+                    </Item>
+                </Maintenances>
+            </Maintenance>
+            <AmbientMoodProvider>
+                <Murmur>Factory</Murmur>
+              </AmbientMoodProvider>
+              <Attackable>
+                <AttackableType>IslandBuilding</AttackableType>
+                <MaximumHitPoints>5000</MaximumHitPoints>
+              </Attackable>
+              <Culture>
+                <Attractiveness>0</Attractiveness>
+                <HasPollution>1</HasPollution>
+              </Culture>
+            <Industrializable>
+                <BoostedByIndustrialization>1</BoostedByIndustrialization>
+            </Industrializable>
+        </Values>
+    </Asset>
+ </ModOp>
+
+  <!-- ADD GOODS TO OTHER PRODUCTLIST - INTERMEDIATE GOODS -->
+
+    <!-- START ADD TO GLOBAL PRODUCTION POOLS -->
+    <ModOp Type="add" GUID="6000018,193856,368" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+         <Item>
+             <GUID>1888999923</GUID>
+         </Item>
+    </ModOp>
+</ModOps>

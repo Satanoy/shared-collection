@@ -1,0 +1,53 @@
+{
+  "Version": "1.0",
+  "ModID": "Olive_Soap",
+  "ModDependencies": [
+    "olives-jakob",
+    "olive-oil-jakob"
+    ],
+  "LoadAfterIds": [
+    "olives-jakob",
+    "olive-oil-jakob"
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Olive_Soap",
+    "Chinese": "Olive_Soap",
+    "French": "Olive_Soap",
+    "German": "Olive_Soap",
+    "Italian": "Olive_Soap",
+    "Japanese": "Olive_Soap",
+    "Korean": "Olive_Soap",
+    "Polish": "Olive_Soap",
+    "Russian": "Olive_Soap",
+    "Spanish": "Olive_Soap",
+    "Taiwanese": "Olive_Soap"
+  },
+  "CreatorName": "Satanoy",
+  
+  "Description": {
+    "English": "Shared Product Olive Soap",
+    "Chinese": "Shared Product Olive Soap",
+    "French": "Shared Product Olive Soap",
+    "German": "Shared Product Olive Soap",
+    "Italian": "Shared Product Olive Soap",
+    "Japanese": "Shared Product Olive Soap",
+    "Korean": "Shared Product Olive Soap",
+    "Polish": "Shared Product Olive Soap",
+    "Russian": "Shared Product Olive Soap",
+    "Spanish": "Shared Product Olive Soap",
+    "Taiwanese": "Shared Product Olive Soap"
+  }
+}
