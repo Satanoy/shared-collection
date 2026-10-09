@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Ivory_carving",
+  "ModDependencies": [
+    "Shared_Ivory"
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Ivory_carving",
+    "Chinese": "Ivory_carving",
+    "French": "Ivory_carving",
+    "German": "Ivory_carving",
+    "Italian": "Ivory_carving",
+    "Japanese": "Ivory_carving",
+    "Korean": "Ivory_carving",
+    "Polish": "Ivory_carving",
+    "Russian": "Ivory_carving",
+    "Spanish": "Ivory_carving",
+    "Taiwanese": "Ivory_carving"
+  },
+  "CreatorName": "India Mod Team",
+  
+  "Description": {
+    "English": "Shared Product Ivory carving",
+    "Chinese": "Shared Product Ivory carving",
+    "French": "Shared Product Ivory carving",
+    "German": "Shared Product Ivory carving",
+    "Italian": "Shared Product Ivory carving",
+    "Japanese": "Shared Product Ivory carving",
+    "Korean": "Shared Product Ivory carving",
+    "Polish": "Shared Product Ivory carving",
+    "Russian": "Shared Product Ivory carving",
+    "Spanish": "Shared Product Ivory carving",
+    "Taiwanese": "Shared Product Ivory carving"
+  }
+}

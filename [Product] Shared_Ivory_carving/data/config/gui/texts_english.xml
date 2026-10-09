@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- START ivory carving -->
+    <Text>
+      <GUID>1900100248</GUID>
+      <Text>ivory carving</Text>
+    </Text>
+    <Text>
+      <GUID>1900100249</GUID>
+      <Text>A handcrafted object made for decorative or cultural purposes.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000379</GUID>
+      <Text>Fake Ivory Carving Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>

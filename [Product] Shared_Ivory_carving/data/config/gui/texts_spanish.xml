@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+     <!-- INICIO Tallado de marfil -->
+    <Text>
+      <GUID>1900100248</GUID>
+      <Text>Tallado de marfil</Text>
+    </Text>
+    <Text>
+      <GUID>1900100249</GUID>
+      <Text>Un objeto artesanal hecho con fines decorativos o culturales.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000379</GUID>
+      <Text>Fake Ivory Carving Workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>
