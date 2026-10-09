@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+     <!-- START Juniper berries-->
+    <Text>
+      <GUID>1900100256</GUID>
+      <Text>Berries</Text>
+    </Text>
+    <Text>
+      <GUID>1900100257</GUID>
+      <Text>Various types of berries for different uses can be found in the forests: juniper berries, wild strawberries, maqui, blackberries, murta, goji, etc.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000378</GUID>
+      <Text>fake berry-picking field</Text>
+    </Text>
+  </ModOp>
+</ModOps>

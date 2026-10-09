@@ -1,0 +1,17 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+     <!-- START Juniper berries-->
+    <Text>
+      <GUID>1900100256</GUID>
+      <Text>Bayas</Text>
+    </Text>
+    <Text>
+      <GUID>1900100257</GUID>
+      <Text>En los bosques se pueden encontrar diversos tipos de bayas para diferentes usos: bayas de enebro, fresas silvestres, maqui, moras, murta, goji, etc.</Text>
+    </Text>
+    <Text>
+      <GUID>1889000378</GUID>
+      <Text>fake berry-picking field</Text>
+    </Text>
+  </ModOp>
+</ModOps>

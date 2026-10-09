@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Berries",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Berries",
+    "Chinese": "Berries",
+    "French": "Berries",
+    "German": "Berries",
+    "Italian": "Berriess",
+    "Japanese": "Berries",
+    "Korean": "Berries",
+    "Polish": "Berriess",
+    "Russian": "Berries",
+    "Spanish": "Berries",
+    "Taiwanese": "Berries"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Berries",
+    "Chinese": "Shared Product Berries",
+    "French": "Shared Product Berries",
+    "German": "Shared Product Berries",
+    "Italian": "Shared Product Berries",
+    "Japanese": "Shared Product Berries",
+    "Korean": "Shared Product Berries",
+    "Polish": "Shared Product Berries",
+    "Russian": "Shared Product Berries",
+    "Spanish": "Shared Product Berries",
+    "Taiwanese": "Shared Product Berries"
+  }
+}
