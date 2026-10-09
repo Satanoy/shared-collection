@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Gems",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Gems",
+    "Chinese": "Shared_Gems",
+    "French": "Shared_Gems",
+    "German": "Shared_Gems",
+    "Italian": "Shared_Gems",
+    "Japanese": "Shared_Gems",
+    "Korean": "Shared_Gems",
+    "Polish": "Shared_Gems",
+    "Russian": "Shared_Gems",
+    "Spanish": "Shared_Gems",
+    "Taiwanese": "Shared_Gems"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Gemstones",
+    "Chinese": "Shared Product Gemstones",
+    "French": "Shared Product Gemstones",
+    "German": "Shared Product Gemstones",
+    "Italian": "Shared Product Gemstones",
+    "Japanese": "Shared Product Gemstones",
+    "Korean": "Shared Product Gemstones",
+    "Polish": "Shared Product Gemstones",
+    "Russian": "Shared Product Gemstones",
+    "Spanish": "Shared Product Gemstones",
+    "Taiwanese": "Shared Product Gemstones"
+  }
+}

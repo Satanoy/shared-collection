@@ -1,0 +1,19 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+      <!-- START Gem Stones-->
+  <Text>
+    <GUID>1900100291</GUID>
+    <Text>Gemstones</Text>
+  </Text>
+  <Text>
+    <GUID>1900100292</GUID>
+    <Text>Valued for their beauty and their use in jewelry and decorative objects.</Text>
+  </Text>
+    <!-- START Fake gemstone Quarry-->
+     <Text>
+      <GUID>1900100309</GUID>
+      <Text>Gemstone Quarry</Text>
+    </Text>
+
+  </ModOp>
+</ModOps>

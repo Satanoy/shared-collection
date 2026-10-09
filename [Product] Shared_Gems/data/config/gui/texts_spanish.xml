@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- INICIO Piedras Preciosas -->
+  <Text>
+    <GUID>1900100291</GUID>
+    <Text>Piedras Preciosas</Text>
+  </Text>
+  <Text>
+    <GUID>1900100292</GUID>
+    <Text>Valoradas por su belleza y su uso en joyería y objetos decorativos.</Text>
+  </Text>
+     <!-- START Fake gemstone Quarry-->
+     <Text>
+      <GUID>1900100309</GUID>
+      <Text>Cantera de Piedras Preciosas</Text>
+    </Text>
+  </ModOp>
+</ModOps>
