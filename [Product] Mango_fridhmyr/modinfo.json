@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Mango",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Mango",
+    "Chinese": "Shared_Mango",
+    "French": "Shared_RMango",
+    "German": "Shared_Mango",
+    "Italian": "Shared_Mango",
+    "Japanese": "Shared_Mango",
+    "Korean": "Shared_Mango",
+    "Polish": "Shared_Mango",
+    "Russian": "Shared_Mango",
+    "Spanish": "Shared_Mango",
+    "Taiwanese": "Shared_Mango"
+  },
+  "CreatorName": "fridhmyr",
+  
+  "Description": {
+    "English": "Shared Product Mango",
+    "Chinese": "Shared Product Mango",
+    "French": "Shared Product Mango",
+    "German": "Shared Product Mango",
+    "Italian": "Shared Product Mango",
+    "Japanese": "Shared Product Mango",
+    "Korean": "Shared Product Mango",
+    "Polish": "Shared Product Mango",
+    "Russian": "Shared Product Mango",
+    "Spanish": "Shared Product Mango",
+    "Taiwanese": "Shared Product Mango"
+  }
+}

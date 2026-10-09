@@ -1,0 +1,21 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+      <!-- START Mango-->
+     <Text>
+      <GUID>1900100002</GUID>
+      <Text>Mango</Text>
+    </Text>
+    <Text>
+      <GUID>1900100003</GUID>
+      <Text>Eine saftige tropische Frucht, süß und reich an Aroma, geerntet unter der Sonne.</Text>
+    </Text>
+    <!-- END Mango-->
+    <!-- START Orchard: Mango-->
+     <Text>
+      <GUID>1900100142</GUID>
+      <Text>Baumschule: Mango</Text>
+    </Text>
+    <!-- END Orchard: Mango-->
+
+  </ModOp>
+</ModOps>
