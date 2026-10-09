@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Pencils Product-->   
+    <Text>
+      <GUID>1888999459</GUID>
+      <Text>Pencils</Text>
+    </Text>
+    <Text>
+      <GUID>118889994560</GUID>
+      <Text>An indispensable tool for artists, artisians, and engineers, graphite pencils capture ideas on paper.</Text>
+    </Text>
+    <!-- END Pencils Factory-->
+    <Text>
+      <GUID>1889000315</GUID>
+      <Text>Pencils Factory</Text>
+    </Text>
+  </ModOp>
+</ModOps>

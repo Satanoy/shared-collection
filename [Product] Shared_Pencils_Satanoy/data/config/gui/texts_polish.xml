@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Pencils Product-->   
+    <Text>
+      <GUID>1888999459</GUID>
+      <Text>Ołówki</Text>
+    </Text>
+    <Text>
+      <GUID>118889994560</GUID>
+      <Text>Niezbędne narzędzie dla artystów, rzemieślników i inżynierów — ołówki grafitowe pozwalają utrwalać pomysły na papierze.</Text>
+    </Text>
+    <!-- END Chess Set Factory-->
+    <Text>
+      <GUID>1888999923</GUID>
+      <Text>Chess Set Factory</Text>
+    </Text>
+  </ModOp>
+</ModOps>

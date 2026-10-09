@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+   <!-- START Pencils Product-->   
+    <Text>
+      <GUID>1888999459</GUID>
+      <Text>Lápices</Text>
+    </Text>
+    <Text>
+      <GUID>118889994560</GUID>
+      <Text>Herramienta indispensable para artistas, artesanos e ingenieros; los lápices de grafito capturan ideas sobre el papel.</Text>
+    </Text>
+    <!-- END Pencils Factory-->
+    <Text>
+      <GUID>1889000315</GUID>
+      <Text>fábrica de lápices</Text>
+    </Text>
+  </ModOp>
+</ModOps>

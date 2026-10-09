@@ -1,0 +1,48 @@
+{
+  "Version": "1.0",
+  "ModID": "Pencils_Satanoy",
+  "ModDependencies": [
+    ],
+
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Pencils",
+    "Chinese": "Pencils",
+    "French": "Pencils",
+    "German": "Pencils",
+    "Italian": "Pencils",
+    "Japanese": "Pencils",
+    "Korean": "Pencils",
+    "Polish": "Pencils",
+    "Russian":"Pencils",
+    "Spanish": "Pencils",
+    "Taiwanese": "Pencils"
+  },
+  "CreatorName": "Satanoy",
+  
+  "Description": {
+    "English": "Shared Product Pencils",
+    "Chinese": "Shared Product Pencils",
+    "French": "Shared Product Pencils",
+    "German": "Shared Product Pencils",
+    "Italian": "Shared Product Pencils",
+    "Japanese": "Shared Product Pencils",
+    "Korean": "Shared Product Pencils",
+    "Polish": "Shared Product Pencils",
+    "Russian": "Shared Product Pencils",
+    "Spanish": "Shared Product Pencils",
+    "Taiwanese": "Shared Product Pencils"
+  }
+}

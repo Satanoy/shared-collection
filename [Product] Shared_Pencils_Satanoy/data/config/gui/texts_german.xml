@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Pencils Product-->   
+		<Text> 
+			<GUID>1888999459</GUID> 
+			<Text>Bleistifte</Text> 
+		</Text> 
+		<Text> 
+			<GUID>118889994560</GUID> 
+			<Text>Für Künstler, Handwerker und Ingenieure ein unverzichtbares Werkzeug, um Ideen auf Papier festzuhalten.</Text> 
+		</Text> 
+    <!-- END Pencils Factory-->
+    <Text>
+      <GUID>1889000315</GUID>
+      <Text>Pencils Factory</Text>
+    </Text>
+  </ModOp>
+</ModOps>
