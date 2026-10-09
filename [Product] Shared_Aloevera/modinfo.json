@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Aloevera",
+  "LoadAfterIds": [],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Shared_Aloevera",
+    "Chinese": "Shared_Aloevera",
+    "French": "Shared_Aloevera",
+    "German": "Shared_Aloevera",
+    "Italian": "Shared_Aloevera",
+    "Japanese": "Shared_Aloevera",
+    "Korean": "Shared_Aloevera",
+    "Polish": "Shared_Aloevera",
+    "Russian": "Shared_Aloevera",
+    "Spanish": "Shared_Aloevera",
+    "Taiwanese": "Shared_Aloevera"
+  },
+  "CreatorName": "India mod Team",
+  
+  "Description": {
+    "English": "Shared Product Aloe Vera",
+    "Chinese": "Shared Product Aloe Vera",
+    "French": "Shared Product Aloe Vera",
+    "German": "Shared Product Aloe Vera",
+    "Italian": "Shared Product Aloe Vera",
+    "Japanese": "Shared Product Aloe Vera",
+    "Korean": "Shared Product Aloe Vera",
+    "Polish": "Shared Product Aloe Vera",
+    "Russian": "Shared Product Aloe Vera",
+    "Spanish": "Shared Product Aloe Vera",
+    "Taiwanese": "Shared Product Aloe Vera"
+  }
+}

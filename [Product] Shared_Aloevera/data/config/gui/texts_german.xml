@@ -1,0 +1,18 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START Aloe vera-->
+    <Text>
+      <GUID>1900100168</GUID>
+      <Text>Aloe vera</Text>
+    </Text>
+    <Text>
+      <GUID>1900100169</GUID>
+      <Text>Succulent plant used for its soothing properties and in various preparations.</Text>
+    </Text>
+  <!-- Aloe Vera farm -->
+    <Text>
+      <GUID>1889000312</GUID>
+      <Text>Aloe Vera Farm</Text>
+    </Text>
+  </ModOp>
+</ModOps>
