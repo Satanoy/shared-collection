@@ -49,6 +49,9 @@ For public use.
 
 -Cogswheels <img width="20" height="20" alt="cogs" src="https://github.com/user-attachments/assets/c9121ea1-a764-49e7-9963-d3cd4ed27074" />
 
+-Telescopes <img width="20" height="20" alt="telescopes" src="https://github.com/user-attachments/assets/2648a50e-4a0f-4eea-8bf5-9a559eecdaa8" />
+
+
 
 
 
