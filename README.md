@@ -15,7 +15,7 @@ For public use.
 
 -Curry <img width="20" height="20" alt="curry" src="https://github.com/user-attachments/assets/1368a1e8-fd64-45da-a402-aed9eb00f99a" />
 
--Date <img width="20" height="20" alt="dates" src="https://github.com/user-attachments/assets/cf049cca-5356-4bb5-b80a-334b2370eb2c" />
+-Date <img width="20" height="20" alt="icons" src="https://github.com/user-attachments/assets/a6024073-90ae-4f06-9720-c236717cf598" />
 
 -Gemsstones <img width="20" height="20" alt="gems" src="https://github.com/user-attachments/assets/a46c9e7d-18c1-4729-a326-bcd232260212" />
 
