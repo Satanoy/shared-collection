@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1416000098</GUID>
+      <Text>Teleskope</Text>
+    </Text>
+    <Text>
+      <GUID>1416000251</GUID>
+      <Text>Optische Instrumente zur präzisen Beobachtung weit entfernter Objekte.</Text>
+    </Text>
+     <Text>
+      <GUID>1416000250</GUID>
+      <Text>Fake telescope workshop</Text>
+    </Text>
+  </ModOp>
+</ModOps>
