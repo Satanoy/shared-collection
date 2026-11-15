@@ -1,0 +1,49 @@
+{
+  "Version": "1.0",
+  "ModID": "Shared_Industrial_Work_Clothes",
+  "ModDependencies": [
+    ],
+  "LoadAfterIds": [
+  ],
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Industrial Work Clothes",
+    "Chinese": "Industrial Work Clothes",
+    "French": "Industrial Work Clothes",
+    "German": "Industrial Work Clothes",
+    "Italian": "Industrial Work Clothes",
+    "Japanese": "Industrial Work Clothes",
+    "Korean": "Industrial Work Clothes",
+    "Polish": "Industrial Work Clothes",
+    "Russian": "Industrial Work Clothes",
+    "Spanish": "Industrial Work Clothes",
+    "Taiwanese": "Industrial Work Clothes"
+  },
+  "CreatorName": "Satanoy,Vaeloridas",
+  
+  "Description": {
+    "English": "Shared Product Industrial Work Clothes",
+    "Chinese": "Shared Product Industrial Work Clothes",
+    "French": "Shared Product Industrial Work Clothes",
+    "German": "Shared Product Industrial Work Clothes",
+    "Italian": "Shared Product Industrial Work Clothes",
+    "Japanese": "Shared Product Industrial Work Clothes",
+    "Korean": "Shared Product Industrial Work Clothes",
+    "Polish": "Shared Product Industrial Work Clothes",
+    "Russian": "Shared Product Industrial Work Clothes",
+    "Spanish": "Shared Product Industrial Work Clothes",
+    "Taiwanese": "Shared Product Industrial Work Clothes"
+  }
+}

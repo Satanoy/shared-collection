@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1416000033</GUID>
+      <Text>Ropa de Trabajo Industrial</Text>
+    </Text>
+    <Text>
+      <GUID>1416000035</GUID>
+      <Text>Prendas resistentes diseñadas para proteger a los trabajadores en entornos industriales</Text>
+    </Text>
+    <Text>
+      <GUID>1416000307</GUID>
+      <Text>Fake Industrial clothing weavery</Text>
+    </Text>
+  </ModOp>
+</ModOps>
