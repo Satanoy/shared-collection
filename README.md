@@ -51,6 +51,9 @@ For public use.
 
 -Telescopes <img width="20" height="20" alt="telescopes" src="https://github.com/user-attachments/assets/2648a50e-4a0f-4eea-8bf5-9a559eecdaa8" />
 
+-Industrial Work Clothes <img width="20" height="20" alt="icons" src="https://github.com/user-attachments/assets/68c3a102-ee0b-4933-b026-6857a01d2926" />
+
+
 
 
 
