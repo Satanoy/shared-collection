@@ -5,11 +5,7 @@ For public use.
 ## Products
 -Acetyl <img width="20" height="20" alt="Acetyl" src="https://github.com/user-attachments/assets/0bfcc6e2-dde7-48f1-ba68-2bce0e8dbec6" />
 
--Curry <img width="20" height="20" alt="curry" src="https://github.com/user-attachments/assets/1368a1e8-fd64-45da-a402-aed9eb00f99a" />
-
 -Date <img width="20" height="20" alt="icons" src="https://github.com/user-attachments/assets/a6024073-90ae-4f06-9720-c236717cf598" />
-
--Gemsstones <img width="20" height="20" alt="gems" src="https://github.com/user-attachments/assets/a46c9e7d-18c1-4729-a326-bcd232260212" />
 
 -Ginger <img width="20" height="20" alt="ginger" src="https://github.com/user-attachments/assets/484545e0-0a26-4cda-9acd-dc821ba64f82" />
 
