@@ -7,13 +7,7 @@ For public use.
 
 -Date <img width="20" height="20" alt="icons" src="https://github.com/user-attachments/assets/a6024073-90ae-4f06-9720-c236717cf598" />
 
--Ginger <img width="20" height="20" alt="ginger" src="https://github.com/user-attachments/assets/484545e0-0a26-4cda-9acd-dc821ba64f82" />
-
 -Glycerine <img width="20" height="20" alt="glycerin" src="https://github.com/user-attachments/assets/bb167584-39cc-48f9-a882-6a5348bbbd76" />
-
--Ivory <img width="20" height="20" alt="ivory" src="https://github.com/user-attachments/assets/56522fb0-9b89-4678-a8e7-fceca4cc9efb" />
-
--Ivory Carving <img width="20" height="20" alt="ivory carving" src="https://github.com/user-attachments/assets/871c0bd5-3302-4ba0-996f-04bff044af95" />
 
 -Mango <img width="20" height="20" alt="mango" src="https://github.com/user-attachments/assets/686335ab-a4c0-4b43-9f5c-d00b66124ede" />
 
