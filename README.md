@@ -5,10 +5,6 @@ For public use.
 ## Products
 -Acetyl <img width="20" height="20" alt="Acetyl" src="https://github.com/user-attachments/assets/0bfcc6e2-dde7-48f1-ba68-2bce0e8dbec6" />
 
--Chess Set <img width="20" height="20" alt="chess" src="https://github.com/user-attachments/assets/f0ec13c9-b919-4336-8418-b98aa7b2e2e1" />
-
--Curcuma <img width="20" height="20" alt="curcuma" src="https://github.com/user-attachments/assets/47d1f8a1-03d6-466f-b946-ac739af17118" />
-
 -Curry <img width="20" height="20" alt="curry" src="https://github.com/user-attachments/assets/1368a1e8-fd64-45da-a402-aed9eb00f99a" />
 
 -Date <img width="20" height="20" alt="icons" src="https://github.com/user-attachments/assets/a6024073-90ae-4f06-9720-c236717cf598" />
